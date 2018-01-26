@@ -1,0 +1,13 @@
+C:\Users\Daniel\Documents\Homework\Cs212\Program2\Program2\Program2\bin\Debug\Program2.exe.config
+C:\Users\Daniel\Documents\Homework\Cs212\Program2\Program2\Program2\bin\Debug\Program2.exe
+C:\Users\Daniel\Documents\Homework\Cs212\Program2\Program2\Program2\bin\Debug\Program2.pdb
+C:\Users\Daniel\Documents\Homework\Cs212\Program2\Program2\Program2\obj\Debug\Program2.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\Homework\Cs212\Program2\Program2\Program2\obj\Debug\MainWindow.baml
+C:\Users\Daniel\Documents\Homework\Cs212\Program2\Program2\Program2\obj\Debug\MainWindow.g.cs
+C:\Users\Daniel\Documents\Homework\Cs212\Program2\Program2\Program2\obj\Debug\App.g.cs
+C:\Users\Daniel\Documents\Homework\Cs212\Program2\Program2\Program2\obj\Debug\Program2_MarkupCompile.cache
+C:\Users\Daniel\Documents\Homework\Cs212\Program2\Program2\Program2\obj\Debug\Program2.g.resources
+C:\Users\Daniel\Documents\Homework\Cs212\Program2\Program2\Program2\obj\Debug\Program2.Properties.Resources.resources
+C:\Users\Daniel\Documents\Homework\Cs212\Program2\Program2\Program2\obj\Debug\Program2.csproj.GenerateResource.Cache
+C:\Users\Daniel\Documents\Homework\Cs212\Program2\Program2\Program2\obj\Debug\Program2.exe
+C:\Users\Daniel\Documents\Homework\Cs212\Program2\Program2\Program2\obj\Debug\Program2.pdb

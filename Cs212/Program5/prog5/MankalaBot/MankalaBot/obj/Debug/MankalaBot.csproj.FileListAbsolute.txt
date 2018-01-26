@@ -1,0 +1,6 @@
+C:\Users\Daniel\Documents\Homework\Cs212\Program5\prog5\MankalaBot\MankalaBot\bin\Debug\MankalaBot.exe.config
+C:\Users\Daniel\Documents\Homework\Cs212\Program5\prog5\MankalaBot\MankalaBot\obj\Debug\MankalaBot.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\Homework\Cs212\Program5\prog5\MankalaBot\MankalaBot\bin\Debug\MankalaBot.exe
+C:\Users\Daniel\Documents\Homework\Cs212\Program5\prog5\MankalaBot\MankalaBot\bin\Debug\MankalaBot.pdb
+C:\Users\Daniel\Documents\Homework\Cs212\Program5\prog5\MankalaBot\MankalaBot\obj\Debug\MankalaBot.exe
+C:\Users\Daniel\Documents\Homework\Cs212\Program5\prog5\MankalaBot\MankalaBot\obj\Debug\MankalaBot.pdb
