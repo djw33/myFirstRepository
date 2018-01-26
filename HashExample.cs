@@ -4,6 +4,7 @@ using System.Collections.Generic;
 
 class HashExample
 {
+    //THIS IS CHANGED
     static Dictionary<string,ArrayList> makeHashtable()
     {
         String[] names = { "one", "two", "three", "four", "five", "six",
